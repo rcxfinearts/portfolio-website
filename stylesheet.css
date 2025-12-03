@@ -1,0 +1,110 @@
+header h1 {
+    background-color: #1afa1a;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    height: 150px;
+    row-gap: 10px;
+    column-gap: 20px;
+}
+.box1 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box2 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box4 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box5 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box6 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box7 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box8 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box9 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box10 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box11 {
+    border-style: solid;
+    box-shadow: 3px 2px 2px 2px #1afa1a;
+    border-radius: 20px;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
