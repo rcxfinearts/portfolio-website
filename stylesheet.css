@@ -2,6 +2,12 @@ header h1 {
     background-color: #1afa1a;
 }
 
+img.class {
+    display: inline-block;
+    align-items: center;
+
+}
+
 .wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -17,7 +23,13 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box1:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 .box2 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -26,7 +38,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box2:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box3 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -35,7 +54,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box3:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box4 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -44,7 +70,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box4:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box5 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -53,7 +86,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box5:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box6 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -62,7 +102,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box6:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box7 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -71,7 +118,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box7:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box8 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -80,7 +134,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box8:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box9 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -89,7 +150,14 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box9:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+
 .box10 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -98,7 +166,13 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
 }
+
+.box10:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 .box11 {
     border-style: solid;
     box-shadow: 3px 2px 2px 2px #1afa1a;
@@ -107,4 +181,9 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: transform .2s; /* Animation */
+}
+
+.box11:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
